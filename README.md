@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm Rahul 👋🏻
+I'm a Aerospace Controls and Software Engineer, I love solving complex and challenging problems.
+Currently open to opportunities where I can work alongside talented developers, and improve my skills as an engineer.
 
-<!--
-**Rahul-Mewada/rahul-mewada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects <br/>
+> ⭐️ [Swift Recipe Application](LINK) - I'm currently building a library of React components that are reusable and centered around my personal design style.
 
-Here are some ideas to get you started:
+> 🔥 [Chess Engine](LINK) - I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+🚴🏽‍♂️ Mountain Biking <br/>
+🪂 Paragliding </br>
+📖 Reading
+
