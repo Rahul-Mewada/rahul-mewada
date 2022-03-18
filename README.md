@@ -5,8 +5,7 @@ Currently open to opportunities where I can work alongside talented developers, 
 ## Current Projects <br/>
 > ⭐️ [Chess Engine](https://github.com/Rahul-Mewada/python-chess-engine) - I'm currently building a chess engine and bot that uses mini-max to play games.
 
-> 🔥 [Swift Recipe App](https://github.com/Rahul-Mewada/PantryApp) - I'm developing a revolutionary iOS app to change the way consumers manage their pantries.
-
+> 🔥 [RecipeSearch](https://github.com/Rahul-Mewada/python-chess-engine) - I'm developing a recipe search engine that scrapes and indexes recipes from popular recipe sites
 ## Hobbies
 🚴🏽‍♂️ Mountain Biking <br/>
 🪂 Paragliding </br>
